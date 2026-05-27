@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "alancalebsebas.aternos.me",
+    "ip": "alancalebsebas.aternos.me:56996",
     "port": 56996,
     "version": "26.1.2",
     "try-creative": true
